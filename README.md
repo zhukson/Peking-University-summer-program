@@ -8,4 +8,4 @@ LSTM_based poetry generator which could generates 5-words poetry, 7 words poetry
 combine style of one image with the content of another image
 
 ## paper explanation:
-I used power point to explain some interesting papers
+I used power point to make presentations of some interesting papers
